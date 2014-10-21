@@ -314,6 +314,14 @@ font-size: 20px;
 .right-footer-col {
   text-align: right;
 }
+
+.mainimage {
+	border:1px solid #eee;
+	border-left:none;
+	border-right:none;
+	box-shadow: 0 1px 10px rgba(0,0,0,0.4);
+}
+
 .nav-bar {
   padding-top: 21px;
   padding-bottom: 21px;
