@@ -28,18 +28,26 @@
 
 	} 
 	</style>
-	<header class="nav-bar">
+	<header class="boson-top-nav">
 		<div class="w-container">
 			<div class="w-row">
 				<div class="w-col w-col-4 w-clearfix brand-column">
-					<a href="/" class="company">SERIES&nbsp;SEED&nbsp;INDIA</a>
+					<a href="http://termsheet.io" class="company">Termsheet</a>
 				</div>
-<!-- 				<nav class="w-col w-col-8 nav-column">
-					<a class="nav-link" href="#mobile">FAQ</a>
-					<a class="nav-link" href="#features">Features</a>
-					<a class="nav-link" href="http://blog.seriesseed.in" target="_blank">Blog</a>
-				</nav>
- -->			</div>
+				<div class="w-col w-col-8">
+					<ul class="nav nav-bar pull-right">
+		 				<li class="nav-link" ng-hide="logged">
+							<a href="http://termsheet.io/learning-center/" >Learning Center</a>
+						</li>
+		 				<li class="nav-link">
+							<a href="http://termsheet.io/info/" >FAQ</a>
+						</li>
+						<li class="nav-link active">
+	 						<a href="#" target="_blank">Series Seed India</a>
+		 				</li>
+					</ul>
+				</div>
+			</div>
 		</div>
 	</header>
 	<div class="section hero">
@@ -51,8 +59,8 @@
 			</p>
 
 			<div class="button-group">
-				<a class="button" href="docs/v1/investment-agreement.pdf">DOWNLOAD</a>
-				<a class="button" href="#">LEARN MORE</a>
+				<a class="btn btn-green btn-lg" href="docs/v1/investment-agreement.pdf">DOWNLOAD</a>
+				<!-- <a class="btn" href="#">LEARN MORE</a> -->
 			</div>
 			<img src="static/img/investmentagreement.png" class="mainimage"></div>
 	</div>
