@@ -337,8 +337,9 @@ background: #fff;
 .hero-subhead {
 font-family: 'Source Sans Pro', sans-serif;
 color: rgb(145, 164, 178);
-font-size: 19px;
+font-size: 18px;
 margin-top: 30px;
+font-weight: 300;
 margin-bottom: 30px;
 }
 .section-title {
