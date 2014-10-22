@@ -490,11 +490,11 @@ text-transform: uppercase;
 }
 
 .mainimage {
-	border:1px solid #eee;
-	border-left:none;
-	border-right:none;
-	box-shadow: 0 1px 10px rgba(0,0,0,0.4);
-	 /*-webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)));  */
+border: 1px solid #E1E5EA;
+/* border-left: none; */
+/* border-right: none; */
+box-shadow: 0 1px 20px rgba(210, 220, 229, 0.5);
+/* -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0))); */
 }
 
 .nav-bar {
