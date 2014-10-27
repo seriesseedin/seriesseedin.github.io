@@ -31,6 +31,17 @@ border: 2px solid rgb(101, 125, 156);
 font-weight: 700;
 }
 
+.btn-green{
+color: #fff;
+font-size: 14px;
+padding: 10px;
+padding-left: 20px;
+padding-right: 20px;
+background: #254E8E;
+border: none;
+border-radius: 3px;
+text-shadow: none;
+}
 .btn-green:hover {
 background: transparent;
 text-shadow: none;
@@ -201,7 +212,7 @@ p {
 .section.hero {
   margin-top: 20px;
   padding-bottom: 0px;
-  background-color: #F9F9FA;
+  background-color: #FFF;
   font-family:'Source Sans Pro', sans-serif;
   text-align: center;
 }
