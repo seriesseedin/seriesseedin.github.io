@@ -8,7 +8,7 @@ A The Company is engaged in the business described in part 1 of Schedule 3 (`“
 
 B The Founders are the promoters of the Company and their shareholding is set forth in the shareholding pattern of the Company as set out in part 2 of Schedule 3.
 
-C Investors have agreed to subscribe and the Company has agreed to issue and allot the Shares (as defined hereinafter) to the Investors (`“Transaction”`);
+C The Investors have agreed to subscribe for, and the Company has agreed to issue and allot the Shares (as defined hereinafter) to the Investors (`“Transaction”`);
 
 D The Parties now wish to record the terms and conditions of their mutual understandings in respect of this Transaction.
 
@@ -72,11 +72,11 @@ D The Parties now wish to record the terms and conditions of their mutual unders
 
 3.3 At Closing:
 
-3.3.1 Parties shall convene a meeting of the Board to: (i) approve the issue and allotment of Shares; (ii) pass a resolution for convening an extra ordinary general meeting for adopting the restated Articles;
+3.3.1 Parties shall convene a meeting of the Board to: (i) approve the issue and allotment of Shares; (ii) pass a resolution for convening an extraordinary general meeting for adopting the restated Articles;
 
-3.3.4 Company shall issue the relevant number of Shares credited as fully paid up to each Investor; comply with the necessary formalities under the Act with regard to a private placement; enter their names in the register of members in respect thereof; and execute and deliver to each Investor a share certificate reflecting the subscription of Shares as detailed in this Agreement and proof of payment of stamp duties in respect of such Shares;
+3.3.2 Company shall issue the relevant number of Shares credited as fully paid up to each Investor; comply with the necessary formalities under the Act with regard to a private placement; enter their names in the register of members in respect thereof; and execute and deliver to each Investor a share certificate reflecting the subscription of Shares as detailed in this Agreement and proof of payment of stamp duties in respect of such Shares;
 
-3.4.2 Company shall convene an extraordinary general meeting of the shareholders of the Company where (i) a special resolution shall be passed adopting restated Articles incorporating the provisions of this Agreement; and (ii) the Board is re­constituted in accordance with this Agreement.
+3.3.3 Company shall convene an extraordinary general meeting of the shareholders of the Company where (i) a special resolution shall be passed adopting restated Articles incorporating the provisions of this Agreement; and (ii) the Board is re­constituted in accordance with this Agreement.
 
 ##4. REPRESENTATIONS AND WARRANTIES
 
@@ -108,13 +108,17 @@ D The Parties now wish to record the terms and conditions of their mutual unders
 
 5.12 If a quorum (as required under this Clause) is not present at a Board meeting within half an hour of the time appointed for a properly convened meeting, the meeting shall be adjourned for five (5) Business Days (or the next succeeding day thereafter in the event such a day is a national holiday) to be held at the same place and time of day. 
 
-5.13 If at such adjourned meeting a quorum is not present within half an hour of the time appointed for a properly convened meeting, the meeting shall be adjourned again for five (5) Business Days to be held at the same place and time of day. 5.14 At such adjourned meeting, the Board members present shall constitute a quorum provided at least two directors are present. 
+5.13 If at such adjourned meeting a quorum is not present within half an hour of the time appointed for a properly convened meeting, the meeting shall be adjourned again for five (5) Business Days to be held at the same place and time of day.
+
+5.14 At such adjourned meeting, the Board members present shall constitute a quorum provided at least two directors are present. 
 
 5.15 The Board shall have the power to allow electronic or remote participation (such as tele­conferencing and video conferencing) in Board meetings, subject to compliance with the relevant requirements under applicable Laws. 
 
 5.16 The Board may act by written resolution, or in any other legally permissible manner, on any matter, except for matters, specified otherwise in this Agreement or which by law may only be acted upon at a meeting. Subject to any restrictions imposed by law, no written resolution shall be deemed to have been duly adopted by the Board, unless such written resolution shall have been approved by the requisite majority of Directors under Law and as provided in various provisions in this Agreement and the Articles. A resolution in writing signed by a majority of the Directors for the time being whether in Execution Location or elsewhere shall be as effective as a resolution passed at a meeting of the Board duly convened and held and may consist of several documents in the like form each signed by one or more of the Directors. 
 
-5.17 Any Director appointed to the Board shall be entitled to nominate an alternate to attend and vote at Board meetings in his absence. Such alternate shall be approved in writing by the respective Shareholders who have nominated such Director and shall be appointed by the Board in accordance with the provisions of applicable Law. 5.18 All questions arising at any meeting of the Board or decision by circular resolutions shall be decided by a simple majority of votes. 
+5.17 Any Director appointed to the Board shall be entitled to nominate an alternate to attend and vote at Board meetings in his absence. Such alternate shall be approved in writing by the respective Shareholders who have nominated such Director and shall be appointed by the Board in accordance with the provisions of applicable Law.
+
+5.18 All questions arising at any meeting of the Board or decision by circular resolutions shall be decided by a simple majority of votes. 
 
 ##6. GENERAL MEETINGS 
 
