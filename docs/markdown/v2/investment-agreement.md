@@ -230,9 +230,9 @@ D	The Parties now wish to record the terms and conditions of their mutual unders
 
 9.5	If any of the shareholders Transfer any Equity Shares in the Company to a third party, then such third party buyer shall execute a deed of adherence in a form and manner acceptable to a majority of the Company’s shareholders. The shareholders shall not Transfer the Equity Shares to a competitor of the Company’s Business (such determination to be made by the Founders and communicated with reasoning when requested by the Lead Investor). 
 
-# **10.		LIQUIDATION PREFERENCE**
+**10.		LIQUIDATION PREFERENCE**
 
-# 10.1	On the occurrence of an Exit Event, the total proceeds from such an Exit Event remaining after discharging or making provision for discharging the liabilities of the Company, shall be distributed first to the Investors, who shall be entitled to receive before any return to holders of Equity Shares, a "**Liquidation Preference**" equal to the higher of: (i)1x (i.e. one time) the subscription amount invested by such Investor; or (ii) pro rata portion of the remaining proceeds from the Exit Event (calculated on a fully diluted basis) as distributed to all shareholders of the Company. Upon distribution of the Liquidation Preference to the Investors, all remaining shareholders will be entitled to recover their pro rata share of the remaining total proceeds based on their inter-se shareholding. 
+10.1	On the occurrence of an Exit Event, the total proceeds from such an Exit Event remaining after discharging or making provision for discharging the liabilities of the Company, shall be distributed first to the Investors, who shall be entitled to receive before any return to holders of Equity Shares, a "**Liquidation Preference**" equal to the higher of: (i)1x (i.e. one time) the subscription amount invested by such Investor; or (ii) pro rata portion of the remaining proceeds from the Exit Event (calculated on a fully diluted basis) as distributed to all shareholders of the Company. Upon distribution of the Liquidation Preference to the Investors, all remaining shareholders will be entitled to recover their pro rata share of the remaining total proceeds based on their inter-se shareholding. 
 
 **11.	CONVERSION**
 
@@ -262,7 +262,8 @@ D	The Parties now wish to record the terms and conditions of their mutual unders
 
 13.3	The termination of this Agreement in any of the circumstances aforesaid shall not in any way affect or prejudice any right accrued to any Party against the other Parties, prior to such termination.
 
-**14.**	**INTELLECTUAL PROPERTY RIGHTS AND CONFIDENTIALITY**
+**14.**	**INTELLECTUAL PROPERTY RIGHTS AND CONFIDENTIALITY
+**
 
 14.1	All the IP Rights arising out of the performance by the Company of its Business and the inputs of the Founders in the course of their association with the Company, shall be owned by the Company and all Parties shall assist the Company in securing the same by filing for appropriate protection under applicable laws in the name of the Company. No Party to this Agreement shall act in any manner derogatory to the proprietary rights of the Company over such IP Rights.
 
